@@ -1,0 +1,7 @@
+datasets==5.0.1
+huggingface_hub==1.29.0
+matplotlib==3.11.2
+muon_optimizer==0.1.0
+numpy==2.5.3
+torch==2.13.0
+transformers==5.16.1

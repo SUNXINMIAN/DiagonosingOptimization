@@ -109,7 +109,7 @@ def train(model, optimizer, train_loader, val_loader, optimizer_name):
         history["epoch_time"].append(epoch_time)
         if accuracy > best_acc:
             best_acc = accuracy
-            torch.save(model.state_dict(), f"best_{optimizer_name}.pth")
+            torch.save(model.state_dict(), f"optimization_outputs/best_{optimizer_name}.pth")
 
         print(f"[{optimizer_name}] \
             Epoch {epoch+1}, \
