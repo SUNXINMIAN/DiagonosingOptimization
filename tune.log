@@ -1,0 +1,22 @@
+[Muon]             Epoch 1,             Train Loss: 0.5027,             Val Loss: 0.4464,             Val Acc: 0.8005,             Grad Norm: 4.7213,             Update Norm: 0.005221,             Time: 322.83         
+[Muon]             Epoch 2,             Train Loss: 0.3279,             Val Loss: 0.4323,             Val Acc: 0.8096,             Grad Norm: 7.0152,             Update Norm: 0.004339,             Time: 324.59         
+[Muon]             Epoch 3,             Train Loss: 0.2748,             Val Loss: 0.4339,             Val Acc: 0.8211,             Grad Norm: 6.8590,             Update Norm: 0.004129,             Time: 329.80         
+[Muon]             Epoch 4,             Train Loss: 0.2401,             Val Loss: 0.4392,             Val Acc: 0.8280,             Grad Norm: 6.7676,             Update Norm: 0.004030,             Time: 327.31         
+[Muon]             Epoch 5,             Train Loss: 0.2172,             Val Loss: 0.4521,             Val Acc: 0.8245,             Grad Norm: 6.6084,             Update Norm: 0.003989,             Time: 326.40         
+[Muon]             Epoch 6,             Train Loss: 0.1987,             Val Loss: 0.4703,             Val Acc: 0.8257,             Grad Norm: 6.3784,             Update Norm: 0.003921,             Time: 338.09         
+[Muon]             Epoch 7,             Train Loss: 0.1846,             Val Loss: 0.4868,             Val Acc: 0.8257,             Grad Norm: 6.1625,             Update Norm: 0.003891,             Time: 318.91         
+[Muon]             Epoch 8,             Train Loss: 0.1722,             Val Loss: 0.5168,             Val Acc: 0.8234,             Grad Norm: 6.0382,             Update Norm: 0.003857,             Time: 342.65         
+[Muon]             Epoch 9,             Train Loss: 0.1616,             Val Loss: 0.5269,             Val Acc: 0.8234,             Grad Norm: 5.9555,             Update Norm: 0.003824,             Time: 319.37         
+[Muon]             Epoch 10,             Train Loss: 0.1506,             Val Loss: 0.5510,             Val Acc: 0.8211,             Grad Norm: 5.8025,             Update Norm: 0.003788,             Time: 330.63         
+[Muon] Best Val Acc: 0.8280
+[AdamW]             Epoch 1,             Train Loss: 0.4412,             Val Loss: 0.4324,             Val Acc: 0.8062,             Grad Norm: 6.3244,             Update Norm: 0.005815,             Time: 224.10         
+[AdamW]             Epoch 2,             Train Loss: 0.3086,             Val Loss: 0.4281,             Val Acc: 0.8096,             Grad Norm: 7.1909,             Update Norm: 0.005048,             Time: 239.49         
+[AdamW]             Epoch 3,             Train Loss: 0.2572,             Val Loss: 0.4309,             Val Acc: 0.8188,             Grad Norm: 7.0898,             Update Norm: 0.004910,             Time: 231.29         
+[AdamW]             Epoch 4,             Train Loss: 0.2241,             Val Loss: 0.4487,             Val Acc: 0.8268,             Grad Norm: 6.7719,             Update Norm: 0.004809,             Time: 230.93         
+[AdamW]             Epoch 5,             Train Loss: 0.2010,             Val Loss: 0.4803,             Val Acc: 0.8177,             Grad Norm: 6.4701,             Update Norm: 0.004746,             Time: 234.00         
+[AdamW]             Epoch 6,             Train Loss: 0.1830,             Val Loss: 0.4740,             Val Acc: 0.8211,             Grad Norm: 6.3475,             Update Norm: 0.004727,             Time: 209.35         
+[AdamW]             Epoch 7,             Train Loss: 0.1670,             Val Loss: 0.5036,             Val Acc: 0.8245,             Grad Norm: 6.0861,             Update Norm: 0.004670,             Time: 242.45         
+[AdamW]             Epoch 8,             Train Loss: 0.1554,             Val Loss: 0.5577,             Val Acc: 0.8211,             Grad Norm: 5.8437,             Update Norm: 0.004663,             Time: 232.72         
+[AdamW]             Epoch 9,             Train Loss: 0.1446,             Val Loss: 0.5585,             Val Acc: 0.8119,             Grad Norm: 5.8312,             Update Norm: 0.004642,             Time: 237.01         
+[AdamW]             Epoch 10,             Train Loss: 0.1345,             Val Loss: 0.5655,             Val Acc: 0.8154,             Grad Norm: 5.6339,             Update Norm: 0.004603,             Time: 232.45         
+[AdamW] Best Val Acc: 0.8268
